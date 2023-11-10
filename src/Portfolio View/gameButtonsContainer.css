@@ -1,0 +1,8 @@
+.GameButtonsContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-left: 10rem;
+  padding-right: 10rem;
+}
